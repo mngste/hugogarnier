@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from France
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using React, React Native and Nodejs
 - 🌱 Learning design patterns in depth
 
 
