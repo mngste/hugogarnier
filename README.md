@@ -37,3 +37,7 @@ Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogarnier&repo=basketstats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<a href="https://github.com/hugogarnier/balthazar-fumoir">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogarnier&repo=balthazar-fumoir&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
