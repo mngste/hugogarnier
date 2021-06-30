@@ -1,21 +1,39 @@
-### Hello World 👋
-I am a fullstack software engineer from France
+### UNDER CONSTRUCTION
 
-- 🔭 Working on multiple frontend and backend project using React, React Native and Nodejs
-- 🌱 Learning design patterns in depth
+### Hi there, I'm [Hugo!](https://hugogarnier.com) 👋
+
+<a href="https://twitter.com/garnier_hugo">
+  <img align="left" alt="Hugo Garnier | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hugogarnier">
+  <img align="left" alt="Hugo Garnier | Linkedin" width="21px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
+
+- 🔭 I’m currently working on my project [BasketStats](https://github.com/hugogarnier/basketstats)
+- 🌱 I’m currently learning NodeJS, ReactJS & React Native
+- 👯 I’m looking to collaborate on
+- 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-## Connect with me
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hugogarnier)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/garnier_hugo)
-<br>
-<br>
+[![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugogarnier&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hugogarnier/)
 
-## Expertise
+<a href="https://github.com/hugogarnier/basketstats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogarnier&repo=basketstats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<br>
-<br>
