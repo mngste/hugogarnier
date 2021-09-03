@@ -14,7 +14,7 @@
 
 Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
 
-- 🔭 I’m currently working on my project [BasketStats](https://github.com/hugogarnier/basketstats)
+- 🔭 I’m currently working on my project [KillerApp](https://github.com/hugogarnier/KillerApp)
 - 🌱 I’m currently learning NodeJS, ReactJS & React Native
 - 👯 I’m looking to collaborate on
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
