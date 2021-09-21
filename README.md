@@ -1,6 +1,6 @@
 ### UNDER CONSTRUCTION
 
-### Hi there, I'm [Hugo!](https://hugogarnier.com) 👋
+### Hi there, I'm Hugo! 👋
 
 <a href="https://twitter.com/garnier_hugo">
   <img align="left" alt="Hugo Garnier | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
