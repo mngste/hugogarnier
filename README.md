@@ -14,7 +14,7 @@
 
 Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
 
-- 🔭 I’m currently working on my project [KillerApp](https://github.com/hugogarnier/KillerApp)
+- 🔭 I’m currently working on my project [KillerApp Server](https://github.com/hugogarnier/server-killerapp) & [KillerApp Client](https://github.com/hugogarnier/client-killerapp)
 - 🌱 I’m currently learning NodeJS, ReactJS & React Native
 - 👯 I’m looking to collaborate on
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
@@ -33,8 +33,8 @@ Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
 
 [![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugogarnier&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hugogarnier/)
 
-<a href="https://github.com/hugogarnier/basketstats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogarnier&repo=basketstats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/hugogarnier/client-killerapp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogarnier&repo=client-killerapp&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/hugogarnier/balthazar-fumoir">
