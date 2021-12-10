@@ -1,5 +1,3 @@
-### UNDER CONSTRUCTION
-
 ### Hi there, I'm Hugo! 👋
 
 <a href="https://twitter.com/garnier_hugo">
@@ -15,8 +13,8 @@
 Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
 
 - 🔭 I’m currently working on my project [KillerApp Server](https://github.com/hugogarnier/server-killerapp) & [KillerApp Client](https://github.com/hugogarnier/client-killerapp)
-- 🌱 I’m currently learning NodeJS, ReactJS & React Native
-- 👯 I’m looking to collaborate on
+- 🌱 I’m currently learning React Native, ReactJS & NodeJS 
+- 👯 I’m looking to collaborate on React Native project
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
 
 **Languages and Tools:**  
@@ -24,6 +22,8 @@ Hi, I'm Hugo Garnier, a passionate self-taught web developer from France.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/expo/logos/main/svg/logo-type-a.svg"></code>
+
 
 
 <!--- 
