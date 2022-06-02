@@ -1,4 +1,5 @@
-### Hi there, I'm Hugo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+### Hi there, I'm Hugo! 👋
+<!--- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
 
 <!---
 <a href="https://twitter.com/garnier_hugo">
