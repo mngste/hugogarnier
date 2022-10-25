@@ -33,7 +33,8 @@ I'm a passionate self-taught web developer from France.
 **Languages and Tools:**  
 
 <code><a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a></code>
-<code><a href="https://remix.run/"><img src="https://user-images.githubusercontent.com/80961204/151557598-2f051599-cf99-4f48-b3b6-da61feb767b3.png" title="Remix" alt="Remix" width="40" height="40"/></a></code>
+<code><a href="https://remix.run/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/></a></code>
+<code><a href="https://nextjs.org/"><img src="https://user-images.githubusercontent.com/80961204/151557598-2f051599-cf99-4f48-b3b6-da61feb767b3.png" title="Remix" alt="Remix" width="40" height="40"/></a></code>
 <code><a href="https://expo.dev/"><img src="https://raw.githubusercontent.com/expo/logos/main/svg/logo-type-a.svg" title="Expo" alt="Expo" width="40" height="40"/></a></code>
 <code><a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a></code>
 <code><a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a></code>
