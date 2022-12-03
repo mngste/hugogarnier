@@ -25,8 +25,8 @@
 
 I'm a passionate self-taught web developer from France.
 
-- 🔭 I’m currently working on my project [KillerApp](https://github.com/hugogarnier/killerappp)
-- 🌱 I’m currently learning React Native, ReactJS, RemixJS & NodeJS 
+- 🔭 I’m currently working on my project [Killer](https://github.com/hugogarnier/killer)
+- 🌱 I’m currently learning React Native, ReactJS, NextJS, RemixJS & NodeJS 
 - 👯 I’m looking to collaborate on React Native & React JS project
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
 
