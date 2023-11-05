@@ -7,7 +7,7 @@ I'm a passionate self-taught mobile & web developer from France.
 - 🔭 Currently working on my project [contest photo](https://github.com/hugogarnier/contest-photo)
 - 🌱 Love for science and innovation and passionate with problem solving
 - 👯 Looking to collaborate on React Native & React JS project
-- 💻 Coding since 2021 with 2+ years of experience in enterprise wide software development.
+- 💻 Coding since 2021 with 8+ years of experience in enterprise wide software development.
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
 
 <!--<div id="badges">
