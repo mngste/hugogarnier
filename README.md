@@ -4,9 +4,9 @@
 
 I'm a passionate self-taught mobile & web developer from France.
 
-- 🔭 Currently working on my project [contest photo](https://github.com/hugogarnier/contest-photo)
+- 🔭 Currently working on my project [killer app](https://github.com/hugogarnier/killer-app)
 - 🌱 Love for science and innovation and passionate with problem solving
-- 👯 Looking to collaborate on React Native & React JS project
+- 👯 Looking to collaborate on React Native & React & Node JS project
 - 💻 Coding since 2021 with 8+ years of experience in enterprise wide software development
 - 💬 Ask me about anything [here](https://github.com/hugogarnier/hugogarnier/issues)
 
