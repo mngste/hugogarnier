@@ -17,7 +17,7 @@ I'm a passionate self-taught mobile & web developer from France.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, React Native, Svelte
+- ⚙️ React, React Native, Svelte, Node, Nest
 - 👁️ SASS, CSS
 - 💽 SQL, Mongo
 
