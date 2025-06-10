@@ -4,7 +4,6 @@
 
 I'm a passionate self-taught mobile & web developer from France.
 
-- 🔭 Currently working on my project [killer app](https://github.com/hugogarnier/killer-app)
 - 🌱 Love for science and innovation and passionate with problem solving
 - 👯 Looking to collaborate on React Native & React & Node JS project
 - 💻 Coding since 2021 with 8+ years of experience in enterprise wide software development
@@ -20,12 +19,6 @@ I'm a passionate self-taught mobile & web developer from France.
 - ⚙️ React, React Native, Svelte, Node, Nest
 - 👁️ SASS, CSS
 - 💽 SQL, Mongo
-
-## Contact
-- [hugogarnier.com](https://hugogarnier.com)
-- [mail](mailto:pro@hugogarnier.com?subject=Hello%20Hugo%20Garnier)
-- [@garnier_hugo](https://twitter.com/garnier_hugo) on Twitter
-- [@hugoo_0](./) on Discord
 
 <br />
 <br />
